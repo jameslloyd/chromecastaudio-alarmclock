@@ -4,9 +4,9 @@ import urllib
 import pyowm  # https://github.com/csparpa/pyowm
 import json
 
-owmapikey = 'XXXXXXX'
-chromecasttarget = 'XXXXXXX'
-location = 'XXXXXXXX'
+owmapikey = 'XXXXXXX' # https://home.openweathermap.org/api_keys
+chromecasttarget = 'XXXXXXX' # Friendly Chromecast name 'My Bedroom'
+location = 'XXXXXXXX' # e.g. 'Bishops Waltham, UK'
 radiostation = 'radio2'
 
 # get weather
