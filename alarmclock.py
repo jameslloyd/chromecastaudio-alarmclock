@@ -6,7 +6,7 @@ import json
 
 owmapikey = 'XXXXXXX' # https://home.openweathermap.org/api_keys
 chromecasttarget = 'XXXXXXX' # Friendly Chromecast name 'My Bedroom'
-location = 'XXXXXXXX' # e.g. 'Bishops Waltham, UK'
+location = 'XXXXXXXX' # e.g. 'Southampton, UK'
 radiostation = 'radio2'
 
 # get weather
